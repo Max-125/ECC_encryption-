@@ -1,0 +1,9 @@
+﻿  ECC.cpp
+C:\Users\vesel\Desktop\ECC\ECC\ECC.cpp(158): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vesel\Desktop\ECC\ECC\ECC.cpp(195,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+     Creating library C:\Users\vesel\Desktop\ECC\x64\Debug\ECC.lib and object C:\Users\vesel\Desktop\ECC\x64\Debug\ECC.exp
+  ECC.vcxproj -> C:\Users\vesel\Desktop\ECC\x64\Debug\ECC.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
